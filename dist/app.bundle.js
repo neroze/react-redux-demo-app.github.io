@@ -36776,6 +36776,21 @@
 	        "label",
 	        { className: "label label-info" },
 	        " #free-candey "
+	      ),
+	      _react2.default.createElement(
+	        "label",
+	        { className: "label label-info" },
+	        " #jumper "
+	      ),
+	      _react2.default.createElement(
+	        "label",
+	        { className: "label label-info" },
+	        " #reactJS "
+	      ),
+	      _react2.default.createElement(
+	        "label",
+	        { className: "label label-info" },
+	        " #redux "
 	      )
 	    );
 	  }

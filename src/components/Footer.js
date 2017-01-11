@@ -5,6 +5,9 @@ const Footer = React.createClass({
     return (
       <div className="footer">
        	<label className="label label-info"> #free-candey </label>
+       	<label className="label label-info"> #jumper </label>
+       	<label className="label label-info"> #reactJS </label>
+       	<label className="label label-info"> #redux </label>
       </div>
     );
   }
