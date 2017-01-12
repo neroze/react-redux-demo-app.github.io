@@ -96,7 +96,7 @@
 	      { path: '/', component: _App2.default },
 	      _react2.default.createElement(_reactRouter.IndexRoute, { component: _Content2.default }),
 	      _react2.default.createElement(_reactRouter.Route, { path: '/pineTree', component: _PineTree2.default }),
-	      _react2.default.createElement(_reactRouter.Route, { path: '/react-redux-demo-app.github.io', component: _Content2.default })
+	      _react2.default.createElement(_reactRouter.Route, { path: '/react-redux-demo-app.io', component: _Content2.default })
 	    )
 	  )
 	), document.getElementById('root'));

@@ -25,7 +25,7 @@ render(
       <Route path="/" component={App}>
         <IndexRoute component={Content} />
         <Route path="/pineTree" component={PineTree}></Route>
-        <Route path="/react-redux-demo-app.github.io" component={Content}></Route>
+        <Route path="/react-redux-demo-app.io" component={Content}></Route>
       </Route>
     </Router>
   </Provider>,
